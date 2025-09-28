@@ -1,5 +1,5 @@
 {
-    "name": "enhanced-enum",
+    "name": "@ifty64bit/enhanced-enum",
     "version": "1.0.0",
     "description": "Type-safe, bi-directional, enum-like structure for TypeScript",
     "homepage": "https://github.com/ifty64bit/enhanced-enum#readme",
